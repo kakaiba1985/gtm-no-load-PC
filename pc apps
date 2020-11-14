@@ -1,1 +1,54 @@
-123
+{
+
+"Options": [
+{
+"Premium":"1",
+"VIP":"1",
+"ShadowsocksR":"1"
+}
+],
+
+"Premium": [
+{"Name":"Singapore 1","Ip":"gtmp01.vuiphilippine.com"},
+{"Name":"Singapore 2","Ip":"gtmp02.vuiphilippine.com"},
+{"Name":"Singapore 3","Ip":"gtmp03.vuiphilippine.com"},
+
+
+
+],
+
+"VIP":[
+{"Name":"VIP Singapore 1","Ip":"gtm1.vuiphilippine.com"},
+{"Name":"VIP Singapore 2","Ip":"gtm2.vuiphilippine.com"},
+{"Name":"VIP Singapore 3","Ip":"gtm3.vuiphilippine.com"},
+
+
+],
+
+"Shadowsocks":[
+{"Name":"SS India 1","Ip":"139.59.80.206"},
+],
+
+
+
+
+"Networks":[
+{
+"Name":"GTM NO LOAD 1",
+"Proxy":"0",
+"Port":"8080",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"Message":"0"
+
+}
+
+
+],
+
+"Version": [
+{
+"Name":"1.1"
+}
+]
+
+}
