@@ -9,19 +9,23 @@
 ],
 
 "Premium": [
-{"Name":"Singapore 1","Ip":"ovpn1.vuiphilippine.com"},
-{"Name":"Singapore 2","Ip":"ovpn1.vuiphilippine.com"},
-{"Name":"Singapore 3","Ip":"ovpn1.vuiphilippine.com"},
-
+{"Name":"Premium 1","Ip":"157.230.33.47"},
+{"Name":"Premium 2","Ip":"157.230.33.47"},
 
 
 ],
 
 "VIP":[
-{"Name":"VIP Singapore 1","Ip":"ovpn1.vuiphilippine.com"},
-{"Name":"VIP Singapore 2","Ip":"ovpn1.vuiphilippine.com"},
-{"Name":"VIP Singapore 3","Ip":"ovpn1.vuiphilippine.com"},
-
+{"Name":"VIP Singapore 1","Ip":"gtmp1.vuiphilippine.com"},
+{"Name":"VIP Singapore 2","Ip":"gtmp2.vuiphilippine.com"},
+{"Name":"VIP Singapore 3","Ip":"gtmp3.vuiphilippine.com"},
+{"Name":"VIP Singapore 4","Ip":"gtmp4.vuiphilippine.com"},
+{"Name":"VIP Singapore 5","Ip":"gtmp5.vuiphilippine.com"},
+{"Name":"VIP Singapore 6","Ip":"gtmp6.vuiphilippine.com"},
+{"Name":"VIP Singapore 7","Ip":"gtmp7.vuiphilippine.com"},
+{"Name":"VIP Singapore 8","Ip":"gtmp8.vuiphilippine.com"},
+{"Name":"VIP Singapore 9","Ip":"gtm9.vuiphilippine.com"},
+{"Name":"VIP Singapore 10","Ip":"gtmp10.vuiphilippine.com"},
 
 ],
 
@@ -37,7 +41,7 @@
 "Name":"GTM NO LOAD 1",
 "Proxy":"0",
 "Port":"8080",
-"Payload":"790d204bab527d941a6c1f82fd0bb093ab4b083f73c155a1bc96169b0abf0b11568128fef022008df8d0477b59a0782562d1658c",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
 "Message":"0"
 
 }
@@ -47,7 +51,7 @@
 
 "Version": [
 {
-"Name":"1.5"
+"Name":"2.0"
 }
 ]
 
