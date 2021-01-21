@@ -9,15 +9,15 @@
 ],
 
 "Premium": [
-{"Name":"Premium 1","Ip":"139.59.226.203"},
-{"Name":"Premium 2","Ip":"139.59.228.34"},
-{"Name":"Premium 3","Ip":"139.59.228.34"},
+{"Name":"Premium 1","Ip":"157.230.33.47"},
+{"Name":"Premium 2","Ip":"157.230.33.47"},
+
 
 ],
 
 "VIP":[
-{"Name":"VIP Singapore 1","Ip":"139.59.228.34"},
-{"Name":"VIP Singapore 2","Ip":"139.59.228.34"},
+{"Name":"VIP Singapore 1","Ip":"gtmp1.vuiphilippine.com"},
+{"Name":"VIP Singapore 2","Ip":"gtmp2.vuiphilippine.com"},
 {"Name":"VIP Singapore 3","Ip":"gtmp3.vuiphilippine.com"},
 {"Name":"VIP Singapore 4","Ip":"gtmp4.vuiphilippine.com"},
 {"Name":"VIP Singapore 5","Ip":"gtmp5.vuiphilippine.com"},
@@ -41,21 +41,40 @@
 "Name":"GTM NO LOAD 1",
 "Proxy":"0",
 "Port":"8181",
-"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"Payload":"790d204bab517d941a66168b8608bd958056172d14a949a6adcd5b8f12a548104ec63fe8b31a0386fee8597162",
+"sni":"https://viber.com",
 "Message":"0"
 },
 {
 "Name":"GTM NO LOAD 2",
 "Proxy":"0",
 "Port":"8282",
-"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"Payload":"790d204bab517d941a66168b8608bd958056172d14a949a6adcd5b8f12a548104ec63fe8b31a0386fee8597162",
+"sni":"https://viber.com",
 "Message":"0"
 },
 {
 "Name":"GTM NO LOAD 3",
 "Proxy":"0",
-"Port":"8080",
-"Payload":"790d204bab527d941a6c1f82fd0bb093ab4b083f73c155a1bc96169b0abf0b11568128fef022008df8d0477b59a0782562d1658c",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd576785193462564d46cbfc9f71d463aa42abc1578b37c31d1ce5b6bb553528a4464329af8f9a0d67cd8201ba9efc83a9e12757e755a82e81d48f0eb4c1ff5633251ee545c44f144106435007b17b9c7e8da1e40610a1e04406ece",
+"sni":"https://viber.com",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 4",
+"Proxy":"0",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"sni":"https://google.com",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 5",
+"Proxy":"0",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ba8517d606bd0b0b5c873fe6f022008df8d0477b59a060297ed366b287be394d65f44c981c61e85806dbca52568b714c8361467cabfbf193",
+"sni":"https://facebook.com",
 "Message":"0"
 
 }
